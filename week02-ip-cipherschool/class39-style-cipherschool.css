@@ -1,0 +1,12 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+#main-heading{
+    background-color: yellow;
+}
+.main-section{
+    background-color: pink;
+}
+p{
+    color:aqua
+}
